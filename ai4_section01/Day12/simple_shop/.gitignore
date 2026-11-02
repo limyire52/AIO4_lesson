@@ -1,0 +1,9 @@
+# 가상환경과 실제 비밀키는 Git에 올리지 않습니다.
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python이 자동 생성하는 임시 파일입니다.
+__pycache__/
+*.py[cod]

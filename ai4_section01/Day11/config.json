@@ -1,0 +1,7 @@
+{
+    "host" : "aws-0-ap-south-1.pooler.supabase.com",
+    "port" : 5432,
+    "dbname" : "postgres",
+    "user": "postgres.fcacaapuzjhfwwwojteh",
+    "password" : "lyr51480502!"
+}

@@ -1,0 +1,13 @@
+# 웹 서버와 HTML 템플릿에 사용합니다.
+fastapi
+uvicorn[standard]
+jinja2
+
+# Supabase 접속, 환경변수 읽기, HTML 폼 처리에 사용합니다.
+supabase
+python-dotenv
+python-multipart
+
+# 비밀번호 해시와 로그인 토큰에 사용합니다.
+bcrypt
+PyJWT
